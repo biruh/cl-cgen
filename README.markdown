@@ -18,21 +18,18 @@ This common lisp library allows you to write C programs using a Lisp-like syntax
 ## Installation
 
 The easiest way is to
-**Clone the repository**
-   Clone this project into your Quicklisp local projects directory:
+
+Clone this project into your Quicklisp local projects directory:
 
    ```bash
    git clone https://github.com/biruh/cl-cgen.git ~/quicklisp/local-projects
    ```
 
-**Load the library in your Lisp environment**
-   Start your Lisp REPL and load the library using Quicklisp:
+Start your Lisp REPL and load the library using Quicklisp:
 
    ```lisp
    (ql:quickload :cl-cgen)
    ```
 
 ---
-
-Let me know if you’d like help adding instructions for ASDF or other Lisp implementations!
 
